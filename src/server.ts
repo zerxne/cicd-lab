@@ -15,5 +15,3 @@ async function start() {
 }
 
 void start();
-
-const x: number = 'this is a type error';
